@@ -3,14 +3,14 @@
 		<h3 class="about-us-title">Rólunk</h3>
 		<div class="about-us-text">
 			Az elmúlt 5 évben már több tucat esküvőn vettünk részt, elkészítettünk több tízezer képet,
-			felvettünk több ezer snittet és izgatottan várjuk az elkövetkezendő évek újabb
-			kihívásait.
+			felvettünk több ezer snittet és izgatottan várjuk az elkövetkezendő évek újabb kihívásait.
 		</div>
 		<div class="about-us-cards columns">
 			<div class="card column about-us-card">
 				<div class="card-image">
-					<figure class="image is-4by3">
+					<figure class="image">
 						<img
+							class="card-image"
 							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/IMG_6946.jpg"
 							alt="Placeholder image"
 						/>
@@ -27,7 +27,7 @@
 			</div>
 			<div class="card column about-us-card">
 				<div class="card-image">
-					<figure class="image is-4by3">
+					<figure class="image">
 						<img
 							class="card-image"
 							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/IMG_6613.jpg"
@@ -60,6 +60,11 @@
 		max-width: 350px;
 		margin: 16px 8px;
 		min-width: 300px;
+	}
+
+	.card-image {
+		height: auto !important;
+		width: auto !important;
 	}
 
 	.about-more-btn {

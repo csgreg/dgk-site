@@ -10,12 +10,12 @@
 	<meta name="title" content="Esküvői videó, film és képek készítése" />
 	<meta
 		name="description"
-		content="Különleges és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből filmet vágunk."
+		content="Különleges és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
 	/>
 	<meta property="og:title" content="Esküvői videó, film és képek készítése" />
 	<meta
 		property="og:description"
-		content="Különleges és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből filmet vágunk."
+		content="Különleges és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
 	/>
 	<meta property="og:url" content="https://www.photographydgk.hu/" />
 	<meta name="robots" content="index, follow" />
