@@ -11,7 +11,7 @@
 					<figure class="image">
 						<img
 							class="card-image"
-							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/IMG_6946.jpg"
+							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-lilian.jpeg"
 							alt="Placeholder image"
 						/>
 					</figure>
@@ -30,7 +30,7 @@
 					<figure class="image">
 						<img
 							class="card-image"
-							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/IMG_6613.jpg"
+							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-gergo.jpeg"
 							alt="Placeholder image"
 						/>
 					</figure>
