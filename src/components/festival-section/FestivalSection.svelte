@@ -14,7 +14,6 @@
 			<iframe
 				class="video"
 				src="https://www.youtube.com/embed/QEdYceK38tY"
-				frameborder="0"
 				allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 				allowfullscreen
 			/>

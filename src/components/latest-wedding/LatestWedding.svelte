@@ -6,7 +6,6 @@
 				<iframe
 					class="video"
 					src="https://www.youtube.com/embed/hP7dpHYA0xM"
-					frameborder="0"
 					allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 					allowfullscreen
 				/>
@@ -15,7 +14,6 @@
 				<iframe
 					class="video"
 					src="https://www.youtube.com/embed/gzHG49Zg62k"
-					frameborder="0"
 					allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 					allowfullscreen
 				/>
