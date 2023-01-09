@@ -63,8 +63,8 @@
 	}
 
 	.card-image {
-		height: auto !important;
-		width: auto !important;
+		height: 217px !important;
+		width: 326px !important;
 	}
 
 	.about-more-btn {

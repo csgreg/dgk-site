@@ -11,8 +11,7 @@
 			<img
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/logo.jpeg"
 				alt="dgk photography logó"
-				width="112"
-				height="28"
+				class="brand-logo"
 			/>
 		</a>
 
@@ -48,8 +47,9 @@
 		box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
 	}
 
-	.navbar-brand img {
-		width: 100%;
+	.brand-logo {
+		width: 76px;
+		height: 24px;
 	}
 
 	.navbar-menu {
