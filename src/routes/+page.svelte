@@ -5,6 +5,7 @@
 	import Footer from '../components/footer/footer.svelte';
 	import ReviewsSection from '../components/reviews-section/ReviewsSection.svelte';
 	import FamilyGallery from '../components/family-gallery/FamilyGallery.svelte';
+	import PetchySection from '../components/petchy-section/PetchySection.svelte';
 </script>
 
 <svelte:head>
@@ -34,6 +35,7 @@
 <FestivalSection />
 <FamilyGallery />
 <ReviewsSection />
+<PetchySection />
 <Footer />
 
 <style>
