@@ -68,17 +68,18 @@
 	}
 
 	.about-more-btn {
-		margin-bottom: 24px;
+		margin-bottom: 32px;
 	}
 
 	.about-us-title {
-		margin-top: 24px;
+		margin-top: 16px;
+		margin-bottom: 16px;
 		font-size: 18px;
 		font-weight: 700;
 	}
 
 	.about-us-text {
-		margin: 8px 12px;
+		margin: 0 12px;
 		text-align: center;
 		max-width: 700px;
 	}

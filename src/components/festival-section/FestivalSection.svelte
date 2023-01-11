@@ -44,12 +44,11 @@
 
 	.festival-text {
 		max-width: 700px;
-		margin: 8px 12px 16px;
+		margin: 0 12px 16px;
 		text-align: center;
 	}
 
 	.festival-content {
-		margin-top: 12px;
 		display: flex;
 		justify-content: center;
 		align-items: center;

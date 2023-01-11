@@ -1,4 +1,3 @@
-<hr class="divider" />
 <section class="reviews">
 	<div class="container reviews-container">
 		<h3 class="review-title">Ti írtátok rólunk</h3>
@@ -8,16 +7,15 @@
 					<article class="media">
 						<div class="media-left">
 							<figure class="image is-64x64">
-								<img src="https://bulma.io/images/placeholders/128x128.png" alt="Image" />
+								<img src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/rebeka-tibi-profile.jpeg" alt="Image" />
 							</figure>
 						</div>
 						<div class="media-content">
 							<div class="content">
 								<p>
-									<strong>John Smith</strong> <small>@johnsmith</small> <small>31m</small>
+									<strong>Rebeka és Tibi</strong>
 									<br />
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet
-									massa fringilla egestas. Nullam condimentum luctus turpis.
+									Ismerős ajánlás útján jutottunk el Lilihez és Gergőhöz, és a képeket, videót visszanézve az egyik legjobb döntés volt, hogy őket kértük fel az esküvőnk megörökítésére. Gördülékenyen ment minden, a képek pedig csodálatosak lettek! Minden pillanatot tökéletesen megörökítettek, mind a képek, mind a videó átadja az esküvőnk hangulatát. Tehát összefoglalva mindenkinek ajánlani fogom őket, profi és kedves csapat! 🙂
 								</p>
 							</div>
 							<nav class="level is-mobile">
@@ -134,16 +132,10 @@
 	}
 
 	.review-title {
+		margin-top: 24px;
 		font-size: 18px;
 		font-weight: 700;
-		margin-bottom: 12px;
+		margin-bottom: 16px;
 		text-align: center;
 	}
-
-    .divider{
-        width: 90%;
-        margin: auto;
-        margin-top: 12px;
-        margin-bottom: 12px;
-    }
 </style>

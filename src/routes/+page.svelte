@@ -4,19 +4,20 @@
 	import AboutUs from '../components/about-us/AboutUs.svelte';
 	import Footer from '../components/footer/footer.svelte';
 	import ReviewsSection from '../components/reviews-section/ReviewsSection.svelte';
+	import FamilyGallery from '../components/family-gallery/FamilyGallery.svelte';
 </script>
 
 <svelte:head>
-	<title>Esküvői videó, film és képek készítése</title>
+	<title>DGK Photography | Esküvői videó, film és képek készítése</title>
 	<meta name="title" content="DGK Photography | Esküvői videó, film és képek készítése" />
 	<meta
 		name="description"
-		content="Különleges és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
 	/>
-	<meta property="og:title" content="Esküvői videó, film és képek készítése" />
+	<meta property="og:title" content="DGK Photography | Esküvői videó, film és képek készítése" />
 	<meta
 		property="og:description"
-		content="Különleges és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
 	/>
 	<meta property="og:url" content="https://www.photographydgk.hu/" />
 	<meta name="robots" content="index, follow" />
@@ -31,6 +32,7 @@
 <LatestWedding />
 <AboutUs />
 <FestivalSection />
+<FamilyGallery />
 <ReviewsSection />
 <Footer />
 

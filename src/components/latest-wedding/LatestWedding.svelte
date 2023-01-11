@@ -36,7 +36,7 @@
 	.last-wedding-movie-title {
 		font-size: 18px;
 		font-weight: 700;
-		margin-bottom: 12px;
+		margin-bottom: 16px;
 	}
 
 	.last-wedding-movie-text {
@@ -62,7 +62,7 @@
 	.divider {
 		width: 90%;
 		margin: auto;
-		margin-top: 12px;
-		margin-bottom: 12px;
+		margin-top: 4px;
+		margin-bottom: 4px;
 	}
 </style>
