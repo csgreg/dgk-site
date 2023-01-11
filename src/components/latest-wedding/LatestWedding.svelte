@@ -22,6 +22,7 @@
 		<div class="video-container" />
 		<a class="button is-rounded more-movie-btn" href="/movies">Nézd meg a többi filmünket is!</a>
 	</div>
+	<hr class="divider" />
 </section>
 
 <style>
@@ -55,6 +56,13 @@
 	}
 
 	.more-movie-btn {
+		margin-bottom: 32px;
+	}
+
+	.divider {
+		width: 90%;
+		margin: auto;
 		margin-top: 12px;
+		margin-bottom: 12px;
 	}
 </style>

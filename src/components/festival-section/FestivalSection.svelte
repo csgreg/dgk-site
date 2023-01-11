@@ -35,14 +35,16 @@
 	}
 
 	.festival-title {
-		margin-top: 12px;
 		font-size: 18px;
-		font-weight: 500;
+		font-weight: 700;
+		margin-bottom: 16px;
+		margin-top: 24px;
+		text-align: center;
 	}
 
 	.festival-text {
 		max-width: 700px;
-		margin: 8px 12px;
+		margin: 8px 12px 16px;
 		text-align: center;
 	}
 
@@ -66,5 +68,6 @@
 
 	.more-movies-btn {
 		margin: 12px;
+		margin-bottom: 32px;
 	}
 </style>

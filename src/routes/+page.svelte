@@ -3,6 +3,7 @@
 	import FestivalSection from '../components/festival-section/FestivalSection.svelte';
 	import AboutUs from '../components/about-us/AboutUs.svelte';
 	import Footer from '../components/footer/footer.svelte';
+	import ReviewsSection from '../components/reviews-section/ReviewsSection.svelte';
 </script>
 
 <svelte:head>
@@ -30,6 +31,7 @@
 <LatestWedding />
 <AboutUs />
 <FestivalSection />
+<ReviewsSection />
 <Footer />
 
 <style>
