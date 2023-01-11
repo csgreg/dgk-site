@@ -8,7 +8,7 @@
 
 <svelte:head>
 	<title>Esküvői videó, film és képek készítése</title>
-	<meta name="title" content="Esküvői videó, film és képek készítése" />
+	<meta name="title" content="DGK Photography | Esküvői videó, film és képek készítése" />
 	<meta
 		name="description"
 		content="Különleges és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
