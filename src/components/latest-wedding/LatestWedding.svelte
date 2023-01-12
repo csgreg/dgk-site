@@ -46,7 +46,16 @@
 
 	.video {
 		aspect-ratio: 16 / 9;
-		width: 100%;
+		width: 500px;
+		max-width: 100%;
+	}
+
+	.video:first-of-type {
+		padding-left: 12px;
+	}
+
+	.video:last-of-type {
+		padding-right: 12px;
 	}
 
 	.more-movie-btn {

@@ -82,6 +82,7 @@
 		margin: 0 12px;
 		text-align: center;
 		max-width: 700px;
+		margin-bottom: 12px;
 	}
 
 	.subtitle {
