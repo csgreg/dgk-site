@@ -7,7 +7,10 @@
 					<article class="media">
 						<div class="media-left">
 							<figure class="image is-64x64">
-								<img src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/rebeka-tibi-profile.jpeg" alt="Image" />
+								<img
+									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/rebeka-tibi-profile.jpeg"
+									alt="Image"
+								/>
 							</figure>
 						</div>
 						<div class="media-content">
@@ -15,7 +18,11 @@
 								<p>
 									<strong>Rebeka és Tibi</strong>
 									<br />
-									Ismerős ajánlás útján jutottunk el Lilihez és Gergőhöz, és a képeket, videót visszanézve az egyik legjobb döntés volt, hogy őket kértük fel az esküvőnk megörökítésére. Gördülékenyen ment minden, a képek pedig csodálatosak lettek! Minden pillanatot tökéletesen megörökítettek, mind a képek, mind a videó átadja az esküvőnk hangulatát. Tehát összefoglalva mindenkinek ajánlani fogom őket, profi és kedves csapat! 🙂
+									Ismerős ajánlás útján jutottunk el Lilihez és Gergőhöz, és a képeket, videót visszanézve
+									az egyik legjobb döntés volt, hogy őket kértük fel az esküvőnk megörökítésére. Gördülékenyen
+									ment minden, a képek pedig csodálatosak lettek! Minden pillanatot tökéletesen megörökítettek,
+									mind a képek, mind a videó átadja az esküvőnk hangulatát. Tehát összefoglalva mindenkinek
+									ajánlani fogom őket, profi és kedves csapat! 🙂
 								</p>
 							</div>
 							<nav class="level is-mobile">
@@ -128,7 +135,7 @@
 <style>
 	.reviews-container {
 		padding: 12px;
-        margin-bottom: 32px;
+		margin-bottom: 32px;
 	}
 
 	.review-title {

@@ -2,23 +2,41 @@
 	<h1 class="family-gallery-title">Petchy képek</h1>
 	<div class="rowc">
 		<div class="columnc">
-			<img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-01.jpg" style="width: 90%" />
-		</div>
-        		<div class="columnc">
-			<img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-05.JPG" style="width: 90%" />
-		</div>
-		<div class="columnc">
-			<img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-02.jpg" style="width: 100%" />
-            <img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-03.JPG" style="width: 100%" />
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-01.jpg"
+				style="width: 90%"
+			/>
 		</div>
 		<div class="columnc">
-			
-			<img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-04.JPG" style="width: 90%" />
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-05.JPG"
+				style="width: 90%"
+			/>
 		</div>
-
+		<div class="columnc">
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-02.jpg"
+				style="width: 100%"
+			/>
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-03.JPG"
+				style="width: 100%"
+			/>
+		</div>
+		<div class="columnc">
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-04.JPG"
+				style="width: 90%"
+			/>
+		</div>
 	</div>
 	<div class="contact-section">
-        Fotózást szeretnél?
+		Fotózást szeretnél?
 		<a class="button is-rounded contact-btn" href="/contact">Írj üzenetet!</a>
 	</div>
 </section>
@@ -30,10 +48,10 @@
 	}
 
 	.contact-section {
-        margin-top: 24px;
-        margin-bottom: 12px;
+		margin-top: 24px;
+		margin-bottom: 12px;
 		display: flex;
-        align-items: center;
+		align-items: center;
 		flex-direction: column;
 		gap: 8px;
 	}

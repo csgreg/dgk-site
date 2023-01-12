@@ -2,17 +2,37 @@
 	<h1 class="family-gallery-title">Családi képek</h1>
 	<div class="rowc">
 		<div class="columnc">
-			<img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-01.jpg" style="width: 90%" />
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-01.jpg"
+				style="width: 90%"
+			/>
 		</div>
 		<div class="columnc">
-			<img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-02.jpg" style="width: 90%" />
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-02.jpg"
+				style="width: 90%"
+			/>
 		</div>
 		<div class="columnc">
-			<img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-03-min.jpg" style="width: 100%" />
-			<img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-05.jpg" style="width: 100%" />
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-03-min.jpg"
+				style="width: 100%"
+			/>
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-05.jpg"
+				style="width: 100%"
+			/>
 		</div>
 		<div class="columnc">
-			<img alt="esküvői kép" src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-04-min.jpg" style="width: 90%" />
+			<img
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-04-min.jpg"
+				style="width: 90%"
+			/>
 		</div>
 	</div>
 	<div class="contact-section">
@@ -28,10 +48,10 @@
 	}
 
 	.contact-section {
-        margin-top: 24px;
-        margin-bottom: 12px;
+		margin-top: 24px;
+		margin-bottom: 12px;
 		display: flex;
-        align-items: center;
+		align-items: center;
 		flex-direction: column;
 		gap: 8px;
 	}

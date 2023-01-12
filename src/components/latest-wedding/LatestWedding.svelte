@@ -39,12 +39,6 @@
 		margin-bottom: 16px;
 	}
 
-	.last-wedding-movie-text {
-		margin: 8px 12px;
-		text-align: center;
-		max-width: 700px;
-	}
-
 	.video-container {
 		width: 600px;
 		max-width: 90%;
