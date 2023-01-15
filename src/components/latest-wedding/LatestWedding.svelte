@@ -4,6 +4,7 @@
 		<div class="columns">
 			<div class="column">
 				<iframe
+					title="Virág és Norbi esküvői filmje"
 					class="video"
 					src="https://www.youtube.com/embed/hP7dpHYA0xM"
 					allow="accelerometer; autoplay; encrypted-media; gyroscope;"
@@ -12,6 +13,7 @@
 			</div>
 			<div class="column">
 				<iframe
+					title="Ági és Attila esküvői videója"
 					class="video"
 					src="https://www.youtube.com/embed/gzHG49Zg62k"
 					allow="accelerometer; autoplay; encrypted-media; gyroscope;"
