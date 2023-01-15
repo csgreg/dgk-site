@@ -1,3 +1,7 @@
+<script>
+	import Footer from '../../components/footer/footer.svelte';
+</script>
+
 <svelte:head>
 	<title>DGK Photography | Esküvői filmek</title>
 	<meta name="title" content="DGK Photography | Esküvői videó, film és képek készítése" />
@@ -15,7 +19,7 @@
 </svelte:head>
 
 <div class="movies-page">
-	<h1 class="movies-title">Esküvői és fesztivál filmek</h1>
+	<h1 class="movies-title">Legutóbbi esküvői filmjeink</h1>
 	<div class="container">
 		<div class="columns">
 			<div class="column video-column">
@@ -30,32 +34,22 @@
 				</div>
 				<div>
 					<iframe
-						title="Virág és Norbi esküvői filmje"
+						title="Rebeka és Tibi esküvői filmje"
 						class="video"
-						src="https://www.youtube.com/embed/hP7dpHYA0xM"
+						src="https://www.youtube.com/embed/8gVgtzZqHiM"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 						allowfullscreen
 					/>
 				</div>
 				<div>
 					<iframe
-						title="Virág és Norbi esküvői filmje"
+						title="Mariann és Zsolt esküvői filmje"
 						class="video"
-						src="https://www.youtube.com/embed/hP7dpHYA0xM"
+						src="https://www.youtube.com/embed/KUSvo194VRk"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 						allowfullscreen
 					/>
 				</div>
-				<div>
-					<iframe
-						title="Virág és Norbi esküvői filmje"
-						class="video"
-						src="https://www.youtube.com/embed/hP7dpHYA0xM"
-						allow="accelerometer; autoplay; encrypted-media; gyroscope;"
-						allowfullscreen
-					/>
-				</div>
-
 			</div>
 			<div class="column video-column">
 				<div>
@@ -69,46 +63,36 @@
 				</div>
 				<div>
 					<iframe
-						title="Ági és Attila esküvői videója"
+						title="Brigi és Zoli esküvői filmje"
 						class="video"
-						src="https://www.youtube.com/embed/gzHG49Zg62k"
+						src="https://www.youtube.com/embed/Qm1YDuvhkSY"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 						allowfullscreen
 					/>
 				</div>
 				<div>
 					<iframe
-						title="Ági és Attila esküvői videója"
+						title="Erika és Sándor esküvői filmje"
 						class="video"
-						src="https://www.youtube.com/embed/gzHG49Zg62k"
+						src="https://www.youtube.com/embed/xWGv2ij6JOA"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 						allowfullscreen
 					/>
 				</div>
-				<div>
-					<iframe
-						title="Ági és Attila esküvői videója"
-						class="video"
-						src="https://www.youtube.com/embed/gzHG49Zg62k"
-						allow="accelerometer; autoplay; encrypted-media; gyroscope;"
-						allowfullscreen
-					/>
-				</div>
-
 			</div>
 		</div>
 	</div>
 </div>
+<Footer />
 
 <style>
-
-	.movies-page{
+	.movies-page {
 		display: flex;
 		align-items: center;
 		flex-direction: column;
 	}
 
-	.movies-title{
+	.movies-title {
 		font-size: 24px;
 		font-weight: 600;
 		margin: 32px 0 12px;

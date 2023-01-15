@@ -9,7 +9,7 @@
 							<figure class="image is-64x64">
 								<img
 									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/rebeka-tibi-profile.jpeg"
-									alt="Image"
+									alt="Rebeka És Tibi profilképe"
 								/>
 							</figure>
 						</div>
@@ -26,23 +26,7 @@
 								</p>
 							</div>
 							<nav class="level is-mobile">
-								<div class="level-left">
-									<a class="level-item" aria-label="reply">
-										<span class="icon is-small">
-											<i class="fas fa-reply" aria-hidden="true" />
-										</span>
-									</a>
-									<a class="level-item" aria-label="retweet">
-										<span class="icon is-small">
-											<i class="fas fa-retweet" aria-hidden="true" />
-										</span>
-									</a>
-									<a class="level-item" aria-label="like">
-										<span class="icon is-small">
-											<i class="fas fa-heart" aria-hidden="true" />
-										</span>
-									</a>
-								</div>
+								<div class="level-left" />
 							</nav>
 						</div>
 					</article>
@@ -66,23 +50,7 @@
 								</p>
 							</div>
 							<nav class="level is-mobile">
-								<div class="level-left">
-									<a class="level-item" aria-label="reply">
-										<span class="icon is-small">
-											<i class="fas fa-reply" aria-hidden="true" />
-										</span>
-									</a>
-									<a class="level-item" aria-label="retweet">
-										<span class="icon is-small">
-											<i class="fas fa-retweet" aria-hidden="true" />
-										</span>
-									</a>
-									<a class="level-item" aria-label="like">
-										<span class="icon is-small">
-											<i class="fas fa-heart" aria-hidden="true" />
-										</span>
-									</a>
-								</div>
+								<div class="level-left" />
 							</nav>
 						</div>
 					</article>
@@ -106,23 +74,7 @@
 								</p>
 							</div>
 							<nav class="level is-mobile">
-								<div class="level-left">
-									<a class="level-item" aria-label="reply">
-										<span class="icon is-small">
-											<i class="fas fa-reply" aria-hidden="true" />
-										</span>
-									</a>
-									<a class="level-item" aria-label="retweet">
-										<span class="icon is-small">
-											<i class="fas fa-retweet" aria-hidden="true" />
-										</span>
-									</a>
-									<a class="level-item" aria-label="like">
-										<span class="icon is-small">
-											<i class="fas fa-heart" aria-hidden="true" />
-										</span>
-									</a>
-								</div>
+								<div class="level-left" />
 							</nav>
 						</div>
 					</article>
