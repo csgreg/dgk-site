@@ -48,18 +48,26 @@
 		<div class="contact-infos">
 			<div class="contect-line">
 				<Phone24 /> <span class="contact-line-info">+36 30 389 6082</span>
-				<span on:click={() => onCopy('phone')} class="copy-info"><Copy24 /></span>
+				<span on:keydown={() => onCopy('phone')} on:click={() => onCopy('phone')} class="copy-info"
+					><Copy24 /></span
+				>
 			</div>
 			<div class="contect-line">
 				<Email24 /> <span class="contact-line-info">photographydgk@gmail.com</span>
-				<span on:click={() => onCopy('email')} class="copy-info"><Copy24 /></span>
+				<span on:keydown={() => onCopy('email')} on:click={() => onCopy('email')} class="copy-info"
+					><Copy24 /></span
+				>
 			</div>
 			<div class="contect-line">
 				<Facebook24 />
 				<a href="https://www.facebook.com/photographydgk" class="contact-line-info"
 					>@photographydgk</a
 				>
-				<span on:click={() => onCopy('facebook')} class="copy-info"><Copy24 /></span>
+				<span
+					on:keydown={() => onCopy('facebook')}
+					on:click={() => onCopy('facebook')}
+					class="copy-info"><Copy24 /></span
+				>
 			</div>
 		</div>
 	</section>

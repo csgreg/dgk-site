@@ -12,7 +12,7 @@
 						<img
 							class="card-image"
 							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-lilian-new.jpeg"
-							alt="Placeholder image"
+							alt="Fénykép Liliről a színpad mellett"
 						/>
 					</figure>
 				</div>
@@ -31,7 +31,7 @@
 						<img
 							class="card-image"
 							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-gergo-new.jpeg"
-							alt="Placeholder image"
+							alt="Fénykép Gergőről a színpadon"
 						/>
 					</figure>
 				</div>

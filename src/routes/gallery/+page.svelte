@@ -1,5 +1,12 @@
 <script>
-	import Footer from "../../components/footer/footer.svelte";
+	import Footer from '../../components/footer/footer.svelte';
+
+	const gallery = {
+		one: ['-1', '4', '8', '12', '16', '19', '20', '25', '33', '34', '38', '45', '49'],
+		two: ['-2', '2', '5', '9', '13', '17', '21', '24', '26', '30', '35', '39', '42', '46', '50'],
+		three: ['1', '6', '10', '14', '22', '27', '31', '36', '40', '43', '47', '51'],
+		four: ['3', '7', '11', '15', '18', '23', '28', '29', '32', '37', '41', '48', '52', '53']
+	};
 </script>
 
 <div class="gallery">
@@ -7,210 +14,31 @@
 		<h1 class="gallery-title">Galéria</h1>
 		<div class="rowc">
 			<div class="columnc">
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/-1.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/4.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/8.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/12.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/16.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/19.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/20.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/25.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/33.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/34.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/38.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/45.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/49.jpg"
-					style="width: 100%"
-				/>
+				{#each gallery.one as src}
+					<img
+						alt="esküvői kreatív fénykép"
+						src={`https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/${src}.jpg`}
+						style="width: 100%"
+					/>
+				{/each}
 			</div>
 			<div class="columnc">
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/-2.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/2.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/5.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/9.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/13.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/17.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/21.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/24.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/26.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/30.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/35.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/39.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/42.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/46.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/50.jpg"
-					style="width: 100%"
-				/>
+				{#each gallery.two as src}
+					<img
+						alt="esküvői kreatív fénykép"
+						src={`https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/${src}.jpg`}
+						style="width: 100%"
+					/>
+				{/each}
 			</div>
 			<div class="columnc">
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/1.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/6.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/10.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/14.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/22.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/27.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/31.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/36.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/40.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/43.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/47.jpg"
-					style="width: 100%"
-				/>
-				<img
-					alt="esküvői kreatív fénykép"
-					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/51.jpg"
-					style="width: 100%"
-				/>
+				{#each gallery.three as src}
+					<img
+						alt="esküvői kreatív fénykép"
+						src={`https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/${src}.jpg`}
+						style="width: 100%"
+					/>
+				{/each}
 			</div>
 			<div class="columnc">
 				<img
@@ -290,28 +118,15 @@
 <Footer />
 
 <style>
-    .gallery-title{
-        font-size: 24px;
-        font-weight: 700;
-        margin: 40px 0 24px;
-    }
+	.gallery-title {
+		font-size: 24px;
+		font-weight: 700;
+		margin: 40px 0 24px;
+	}
 
 	.gallery {
 		padding: 16px;
 		background-color: #f5f5f5;
-	}
-
-	.contact-section {
-		margin-top: 24px;
-		margin-bottom: 12px;
-		display: flex;
-		align-items: center;
-		flex-direction: column;
-		gap: 8px;
-	}
-
-	.contact-btn {
-		width: fit-content;
 	}
 
 	.gallery {

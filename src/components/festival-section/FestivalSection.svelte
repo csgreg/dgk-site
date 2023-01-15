@@ -16,6 +16,7 @@
 				src="https://www.youtube.com/embed/QEdYceK38tY"
 				allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 				allowfullscreen
+				title="Ceglédi Street Food fesztivál"
 			/>
 		</div>
 		<a class="button is-rounded more-movies-btn" href="/movies">További filmek</a>

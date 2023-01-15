@@ -1,10 +1,8 @@
 <footer class="footer">
 	<div class="content has-text-centered">
 		<p>
-			<strong>DGK</strong> by <a href="https://jgthms.com">Lilian Kocsis and Gergo Csizmadia</a>.
-			The source code is licensed
-			<a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content is
-			licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
+			<strong>DGK</strong> by
+			<a href="https://www.photographydgk.hu">Lilian Kocsis and Gergo Csizmadia</a>.
 		</p>
 	</div>
 </footer>
