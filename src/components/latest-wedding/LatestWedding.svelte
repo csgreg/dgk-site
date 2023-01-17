@@ -1,6 +1,6 @@
 <section>
 	<div class="container last-wedding-movie-section">
-		<h3 class="last-wedding-movie-title">Láttad már a legutóbbi filmejeinket?</h3>
+		<h3 class="last-wedding-movie-title">Esküvői filmek</h3>
 		<div class="columns">
 			<div class="column">
 				<iframe
