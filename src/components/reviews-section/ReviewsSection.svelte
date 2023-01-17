@@ -9,7 +9,7 @@
 							<figure class="image is-64x64">
 								<img
 									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/rebeka-tibi-profile.jpeg"
-									alt="Rebeka És Tibi profilképe"
+									alt="Rebeka és Tibi profilképe"
 								/>
 							</figure>
 						</div>
@@ -37,16 +37,19 @@
 					<article class="media">
 						<div class="media-left">
 							<figure class="image is-64x64">
-								<img src="https://bulma.io/images/placeholders/128x128.png" alt="Image" />
+								<img
+									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/mariann-zsolt-profile.jpg"
+									alt="Marianna és Zsolt profilképe"
+								/>
 							</figure>
 						</div>
 						<div class="media-content">
 							<div class="content">
 								<p>
-									<strong>John Smith</strong> <small>@johnsmith</small> <small>31m</small>
+									<strong>Marianna és Zsolt</strong>
 									<br />
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet
-									massa fringilla egestas. Nullam condimentum luctus turpis.
+									Megbízhatóak, fiatalos, ötletes, modern, stílusukkal egyedi, minőségi videókat készítenek!
+									Keressétek őket bátran! Bizalommal ajánljuk!
 								</p>
 							</div>
 							<nav class="level is-mobile">
@@ -61,16 +64,19 @@
 					<article class="media">
 						<div class="media-left">
 							<figure class="image is-64x64">
-								<img src="https://bulma.io/images/placeholders/128x128.png" alt="Image" />
+								<img
+									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/agi-attila-profile.jpg"
+									alt="Ági és Attila profilképe"
+								/>
 							</figure>
 						</div>
 						<div class="media-content">
 							<div class="content">
 								<p>
-									<strong>John Smith</strong> <small>@johnsmith</small> <small>31m</small>
+									<strong>Ági és Attila</strong>
 									<br />
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet
-									massa fringilla egestas. Nullam condimentum luctus turpis.
+									Lili és Gergő egy szuper páros! Kedvesek, jó fejek és persze profik. 🙂 Nagyon hálasak
+									vagyunk nekik, mert gyönyörű esküvői képeket és videót készítettek rólunk.
 								</p>
 							</div>
 							<nav class="level is-mobile">
