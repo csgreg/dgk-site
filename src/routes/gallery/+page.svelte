@@ -9,6 +9,22 @@
 	};
 </script>
 
+<svelte:head>
+	<title>DGK Photography | Galéria</title>
+	<meta name="title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<meta
+		name="description"
+		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+	/>
+	<meta property="og:title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<meta
+		property="og:description"
+		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+	/>
+	<meta property="og:url" content="https://www.photographydgk.hu/gallery" />
+	<meta name="robots" content="index, follow" />
+</svelte:head>
+
 <div class="gallery">
 	<div class="container">
 		<h1 class="gallery-title">Galéria</h1>

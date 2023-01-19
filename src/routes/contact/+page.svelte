@@ -23,6 +23,22 @@
 	};
 </script>
 
+<svelte:head>
+	<title>DGK Photography | Kapcsolat</title>
+	<meta name="title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<meta
+		name="description"
+		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+	/>
+	<meta property="og:title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<meta
+		property="og:description"
+		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+	/>
+	<meta property="og:url" content="https://www.photographydgk.hu/contact" />
+	<meta name="robots" content="index, follow" />
+</svelte:head>
+
 <div class="contact-page">
 	<section class="container leave-message-section">
 		<form
