@@ -58,8 +58,6 @@
 						</div>
 					</article>
 				</div>
-			</div>
-			<div class="column">
 				<div class="box review-box">
 					<article class="media">
 						<div class="media-left">
@@ -77,6 +75,34 @@
 									<br />
 									Lili és Gergő egy szuper páros! Kedvesek, jó fejek és persze profik. 🙂 Nagyon hálasak
 									vagyunk nekik, mert gyönyörű esküvői képeket és videót készítettek rólunk.
+								</p>
+							</div>
+							<nav class="level is-mobile">
+								<div class="level-left" />
+							</nav>
+						</div>
+					</article>
+				</div>
+			</div>
+			<div class="column">
+				<div class="box review-box">
+					<article class="media">
+						<div class="media-left">
+							<figure class="image is-64x64">
+								<img
+									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/edina-akos-profile.jpeg"
+									alt="Edina és Ákos profilképe"
+								/>
+							</figure>
+						</div>
+						<div class="media-content">
+							<div class="content">
+								<p>
+									<strong>Edina és Ákos</strong>
+									<br />
+									Köszönjük Nektek, hogy életünk egyik legszebb napjának pillanatait megörökítettétek.
+									Nagyon meg vagyunk elégedve a munkátokkal, megfelelő minőség, precíz munka, a képekkel
+									gyorsan elkészültetek, a videó is nagyon megható lett 🤍
 								</p>
 							</div>
 							<nav class="level is-mobile">
