@@ -32,6 +32,7 @@
 			<div class="columnc">
 				{#each gallery.one as src}
 					<img
+						loading="lazy"
 						alt="esküvői kreatív fénykép"
 						src={`https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/${src}.jpg`}
 						style="width: 100%"
@@ -41,6 +42,7 @@
 			<div class="columnc">
 				{#each gallery.two as src}
 					<img
+						loading="lazy"
 						alt="esküvői kreatív fénykép"
 						src={`https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/${src}.jpg`}
 						style="width: 100%"
@@ -50,6 +52,7 @@
 			<div class="columnc">
 				{#each gallery.three as src}
 					<img
+						loading="lazy"
 						alt="esküvői kreatív fénykép"
 						src={`https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/${src}.jpg`}
 						style="width: 100%"
@@ -58,71 +61,85 @@
 			</div>
 			<div class="columnc">
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/3.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/7.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/11.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/15.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/18.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/23.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/28.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/29.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/32.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/37.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/41.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/48.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/52.jpg"
 					style="width: 100%"
 				/>
 				<img
+					loading="lazy"
 					alt="esküvői kreatív fénykép"
 					src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/53.jpg"
 					style="width: 100%"

@@ -8,6 +8,7 @@
 						<div class="media-left">
 							<figure class="image is-64x64">
 								<img
+									loading="lazy"
 									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/rebeka-tibi-profile.jpeg"
 									alt="Rebeka és Tibi profilképe"
 								/>
@@ -38,6 +39,7 @@
 						<div class="media-left">
 							<figure class="image is-64x64">
 								<img
+									loading="lazy"
 									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/mariann-zsolt-profile.jpg"
 									alt="Marianna és Zsolt profilképe"
 								/>
@@ -63,6 +65,7 @@
 						<div class="media-left">
 							<figure class="image is-64x64">
 								<img
+									loading="lazy"
 									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/agi-attila-profile.jpg"
 									alt="Ági és Attila profilképe"
 								/>
@@ -90,6 +93,7 @@
 						<div class="media-left">
 							<figure class="image is-64x64">
 								<img
+									loading="lazy"
 									src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/edina-akos-profile.jpeg"
 									alt="Edina és Ákos profilképe"
 								/>

@@ -10,6 +10,7 @@
 				<div class="card-image">
 					<figure class="image">
 						<img
+							loading="lazy"
 							class="card-image"
 							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-lilian-new.jpeg"
 							alt="Fénykép Liliről a színpad mellett"
@@ -29,6 +30,7 @@
 				<div class="card-image">
 					<figure class="image">
 						<img
+							loading="lazy"
 							class="card-image"
 							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-gergo-new.jpeg"
 							alt="Fénykép Gergőről a színpadon"

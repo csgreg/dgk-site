@@ -37,6 +37,7 @@
 			<div class="card-image">
 				<figure class="image is-3by3">
 					<img
+						loading="lazy"
 						alt="TODO"
 						class="about-image"
 						src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/IMG-6987-min-min.jpg"
