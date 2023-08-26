@@ -1,5 +1,5 @@
 <section class="gallery">
-	<h3 class="family-gallery-title">Termék fényképezés</h3>
+	<h3 class="family-gallery-title">Termék fotózás</h3>
 	<p class="petchy-text">
 		Legutóbb volt szerencsénk befotózni a nemrég megalakuló PETCHY családi vállalkozás termékeit.
 		Korábban még nem vettünk részt ilyen jellegű fotózáson, de a jövőben szívesen fejlesztenénk
