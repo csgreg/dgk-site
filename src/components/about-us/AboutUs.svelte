@@ -47,7 +47,9 @@
 				</div>
 			</div>
 		</div>
-		<a class="button is-rounded about-more-btn" href="/about">Tudj meg többet rólunk</a>
+		<a data-sveltekit-reload class="button is-rounded about-more-btn" href="/about"
+			>Tudj meg többet rólunk</a
+		>
 	</div>
 </section>
 

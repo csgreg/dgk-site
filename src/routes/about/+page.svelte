@@ -1,14 +1,17 @@
 <svelte:head>
-	<title>DGK Photography | Rólunk</title>
-	<meta name="title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<title>Rólunk | DGK Photography - Egyedi Esküvői Fotók és Filmek Készítői</title>
+	<meta name="title" content="Rólunk | DGK Photography - Egyedi Esküvői Fotók és Filmek Készítői" />
 	<meta
 		name="description"
-		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content=" Ismerje meg DGK Photography-t, és találkozzon azokkal az emberekkel, akik nagy lelkesedéssel készítik az esküvői fotókat és filmeket. Tudjon meg többet rólunk és szenvedélyünkről, a pillanatok megörökítéséről."
 	/>
-	<meta property="og:title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<meta
+		property="og:title"
+		content="Rólunk | DGK Photography - Egyedi Esküvői Fotók és Filmek Készítői"
+	/>
 	<meta
 		property="og:description"
-		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content=" Ismerje meg DGK Photography-t, és találkozzon azokkal az emberekkel, akik nagy lelkesedéssel készítik az esküvői fotókat és filmeket. Tudjon meg többet rólunk és szenvedélyünkről, a pillanatok megörökítéséről."
 	/>
 	<meta property="og:url" content="https://www.photographydgk.hu/about" />
 	<meta name="robots" content="index, follow" />

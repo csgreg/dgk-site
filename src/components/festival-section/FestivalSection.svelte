@@ -19,7 +19,9 @@
 				title="Ceglédi Street Food fesztivál"
 			/>
 		</div>
-		<a class="button is-rounded more-movies-btn" href="/movies">További filmek</a>
+		<a data-sveltekit-reload class="button is-rounded more-movies-btn" href="/movies"
+			>További filmek</a
+		>
 	</div>
 </section>
 

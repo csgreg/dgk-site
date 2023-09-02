@@ -47,7 +47,7 @@
 	</div>
 	<div class="contact-section">
 		Termék fotózás érdekel?
-		<a class="button is-rounded contact-btn" href="/contact">Írj üzenetet!</a>
+		<a data-sveltekit-reload class="button is-rounded contact-btn" href="/contact">Írj üzenetet!</a>
 	</div>
 </section>
 
