@@ -22,7 +22,9 @@
 			</div>
 		</div>
 		<div class="video-container" />
-		<a class="button is-rounded more-movie-btn" href="/movies">Nézd meg a többi filmünket is!</a>
+		<a data-sveltekit-reload class="button is-rounded more-movie-btn" href="/movies"
+			>Nézd meg a többi filmünket is!</a
+		>
 	</div>
 	<hr class="divider" />
 </section>

@@ -7,8 +7,9 @@
 
 <nav class="navbar" aria-label="main navigation">
 	<div class="navbar-brand">
-		<a class="navbar-item" href="/">
+		<a data-sveltekit-reload class="navbar-item" href="/">
 			<img
+				loading="lazy"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/logo-new.jpeg"
 				alt="dgk photography logó"
 				class="brand-logo"
@@ -24,6 +25,7 @@
 			data-target="navbar"
 			on:click={toggleMenuOpen}
 			on:keypress={toggleMenuOpen}
+			data-sveltekit-reload
 		>
 			<span aria-hidden="true" />
 			<span aria-hidden="true" />
@@ -33,11 +35,11 @@
 
 	<div id="navbar" class="navbar-menu {isActive && 'is-active'}">
 		<div class="navbar-start">
-			<a href="/" class="navbar-item"> Home </a>
-			<a href="/gallery" class="navbar-item"> Galéria </a>
-			<a href="/movies" class="navbar-item"> Filmek </a>
-			<a href="/about" class="navbar-item"> Rólunk </a>
-			<a href="/contact" class="navbar-item"> Kapcsolat </a>
+			<a href="/" class="navbar-item" data-sveltekit-reload> Home </a>
+			<a href="/gallery" class="navbar-item" data-sveltekit-reload> Galéria </a>
+			<a href="/movies" class="navbar-item" data-sveltekit-reload> Filmek </a>
+			<a href="/about" class="navbar-item" data-sveltekit-reload> Rólunk </a>
+			<a href="/contact" class="navbar-item" data-sveltekit-reload> Kapcsolat </a>
 		</div>
 	</div>
 </nav>

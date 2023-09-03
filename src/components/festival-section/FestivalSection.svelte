@@ -3,11 +3,11 @@
 	<div class="container festival-content">
 		<h3 class="festival-title">Fesztivál és rendezvény filmezés</h3>
 		<p class="festival-text">
-			Az esküvői felkéréseink mellett ’22 nyarán már másodjára keresett meg minket a Street Food
+			Az esküvői felkéréseink mellett ’23 nyarán már harmadjára keresett meg minket a Street Food
 			Fesztivál főszervezője a Gyömrői, illetve az Alföldi Street Food Fesztivál aftermovie-jának
-			elkészítésével kapcsolatban és mi az előző évi pozitív tapasztalatokkal felfegyverkezve ismét
+			elkészítésével kapcsolatban és mi az előző évek pozitív tapasztalatokkal felfegyverkezve ismét
 			nagy örömmel vetettük bele magunkat a fesztivál filmkészítés világába. A mai napig úgy
-			érezzük, hogy egy életre szóló élményben lehetett részünk ezeken a fesztiválokon, amit idén
+			érezzük, hogy egy életre szóló élményben lehetett részünk ezeken a fesztiválokon, amit jövő
 			nyáron újra átélhetünk!
 		</p>
 		<div class="video-container">
@@ -19,13 +19,15 @@
 				title="Ceglédi Street Food fesztivál"
 			/>
 		</div>
-		<a class="button is-rounded more-movies-btn" href="/movies">További filmek</a>
+		<a data-sveltekit-reload class="button is-rounded more-movies-btn" href="/movies"
+			>További filmek</a
+		>
 	</div>
 </section>
 
 <style>
 	.festival-hero {
-		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/fest.jpg');
+		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/fest_thumb.JPG');
 		background-size: cover;
 		background-position: 50% 70%;
 		background-repeat: no-repeat;

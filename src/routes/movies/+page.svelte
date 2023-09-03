@@ -3,16 +3,16 @@
 </script>
 
 <svelte:head>
-	<title>DGK Photography | Esküvői filmek</title>
-	<meta name="title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<title>Esküvői Videók | DGK Photography</title>
+	<meta name="title" content="Esküvői Videók | DGK Photography" />
 	<meta
 		name="description"
-		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content="Nézze meg esküvői videóinkat, amelyek emlékezetessé teszik a nagy napot. Fedezze fel, hogyan örökítjük meg az érzelmeket mozgóképes formában!"
 	/>
-	<meta property="og:title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<meta property="og:title" content="Esküvői Videók | DGK Photography" />
 	<meta
 		property="og:description"
-		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content="Nézze meg esküvői videóinkat, amelyek emlékezetessé teszik a nagy napot. Fedezze fel, hogyan örökítjük meg az érzelmeket mozgóképes formában!"
 	/>
 	<meta property="og:url" content="https://www.photographydgk.hu/movies" />
 	<meta name="robots" content="index, follow" />

@@ -9,25 +9,25 @@
 </script>
 
 <svelte:head>
-	<title>DGK Photography | Esküvői videó, film és képek készítése</title>
-	<meta name="title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<title>DGK Photography - Egyedi Esküvői Fotók és Filmek</title>
+	<meta name="title" content="DGK Photography - Egyedi Esküvői Fotók és Filmek" />
 	<meta
 		name="description"
-		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content="Üdvözöljük a DGK Photography weboldalán! Fedezze fel profi esküvői fotóinkat és filmjeinket. Készítsünk egyedi felvételeket együtt!"
 	/>
-	<meta property="og:title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<meta property="og:title" content="DGK Photography - Egyedi Esküvői Fotók és Filmek" />
 	<meta
 		property="og:description"
-		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content="Üdvözöljük a DGK Photography weboldalán! Fedezze fel profi esküvői fotóinkat és filmjeinket. Készítsünk egyedi felvételeket együtt!"
 	/>
 	<meta property="og:url" content="https://www.photographydgk.hu/" />
 	<meta name="robots" content="index, follow" />
 </svelte:head>
 
-<section class="hero is-medium is-link main-hero">
+<section class="hero is-medium main-hero">
 	<div class="hero-body">
-		<h1 class="title">DGK</h1>
-		<h2 class="subtitle">Fényképezés, filmkészítés</h2>
+		<h1 class="title">DGK productions</h1>
+		<h2 class="subtitle">Wedding photography and filmmaking</h2>
 	</div>
 </section>
 <LatestWedding />
@@ -42,7 +42,7 @@
 	.main-hero {
 		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/thumb.jpeg');
 		background-size: cover;
-		background-position: 50% 0;
+		background-position: 10% 45%;
 		background-repeat: no-repeat;
 		display: flex;
 		height: 50vh;
@@ -51,11 +51,32 @@
 	}
 
 	.title {
+		margin-top: 24px;
 		font-weight: 300;
+		color: white;
 	}
 
 	.subtitle {
-		font-weight: 800;
+		font-weight: 300;
+		color: white;
+	}
+
+	@media screen and (max-width: 800px) {
+		.main-hero {
+			background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/thumbnail.JPG');
+			background-position: 0 70%;
+		}
+
+		.title {
+			margin-top: 24px;
+			font-weight: 100;
+			color: white;
+		}
+
+		.subtitle {
+			font-weight: 200;
+			color: white;
+		}
 	}
 
 	.hero-body {

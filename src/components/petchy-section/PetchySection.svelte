@@ -1,5 +1,5 @@
 <section class="gallery">
-	<h3 class="family-gallery-title">Termék fényképezés</h3>
+	<h3 class="family-gallery-title">Termék fotózás</h3>
 	<p class="petchy-text">
 		Legutóbb volt szerencsénk befotózni a nemrég megalakuló PETCHY családi vállalkozás termékeit.
 		Korábban még nem vettünk részt ilyen jellegű fotózáson, de a jövőben szívesen fejlesztenénk
@@ -8,6 +8,7 @@
 	<div class="rowc">
 		<div class="columnc">
 			<img
+				loading="lazy"
 				alt="kutyaruha reklám termék fénykép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-01.jpg"
 				style="width: 90%"
@@ -15,6 +16,7 @@
 		</div>
 		<div class="columnc">
 			<img
+				loading="lazy"
 				alt="kutyaruha reklám termék fénykép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-05.JPG"
 				style="width: 90%"
@@ -22,11 +24,13 @@
 		</div>
 		<div class="columnc">
 			<img
+				loading="lazy"
 				alt="kutyaruha reklám termék fénykép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-02.jpeg"
 				style="width: 100%"
 			/>
 			<img
+				loading="lazy"
 				alt="kutyaruha reklám termék fénykép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-03.JPG"
 				style="width: 100%"
@@ -34,6 +38,7 @@
 		</div>
 		<div class="columnc">
 			<img
+				loading="lazy"
 				alt="kutyaruha reklám fénykép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-04.JPG"
 				style="width: 90%"
@@ -42,7 +47,7 @@
 	</div>
 	<div class="contact-section">
 		Termék fotózás érdekel?
-		<a class="button is-rounded contact-btn" href="/contact">Írj üzenetet!</a>
+		<a data-sveltekit-reload class="button is-rounded contact-btn" href="/contact">Írj üzenetet!</a>
 	</div>
 </section>
 

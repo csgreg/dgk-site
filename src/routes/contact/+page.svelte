@@ -24,16 +24,19 @@
 </script>
 
 <svelte:head>
-	<title>DGK Photography | Kapcsolat</title>
-	<meta name="title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<title>Kapcsolat | DGK Photography - Vegye fel velünk a kapcsolatot</title>
+	<meta name="title" content="Kapcsolat | DGK Photography - Vegye fel velünk a kapcsolatot" />
 	<meta
 		name="description"
-		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content="Lépjen velünk kapcsolatba és ossza meg velünk álmai esküvőjének részleteit. Az elérhetőségeink itt találhatók, várjuk jelentkezését!"
 	/>
-	<meta property="og:title" content="DGK Photography | Esküvői videó, film és képek készítése" />
+	<meta
+		property="og:title"
+		content="Kapcsolat | DGK Photography - Vegye fel velünk a kapcsolatot"
+	/>
 	<meta
 		property="og:description"
-		content="Csodálatos és egyedi esküvői videót, filmet és képeket készítünk, amik évek múlva is örömöt okoznak. Drónfelvételeket, 4K felbontású videókat készítünk, melyből egy életre szóló filmet vágunk."
+		content="Lépjen velünk kapcsolatba és ossza meg velünk álmai esküvőjének részleteit. Az elérhetőségeink itt találhatók, várjuk jelentkezését!"
 	/>
 	<meta property="og:url" content="https://www.photographydgk.hu/contact" />
 	<meta name="robots" content="index, follow" />
@@ -76,8 +79,10 @@
 			</div>
 			<div class="contect-line">
 				<Facebook24 />
-				<a href="https://www.facebook.com/photographydgk" class="contact-line-info"
-					>@photographydgk</a
+				<a
+					data-sveltekit-reload
+					href="https://www.facebook.com/photographydgk"
+					class="contact-line-info">@photographydgk</a
 				>
 				<span
 					on:keydown={() => onCopy('facebook')}

@@ -3,6 +3,7 @@
 	<div class="rowc">
 		<div class="columnc">
 			<img
+				loading="lazy"
 				alt="esküvői kép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-01.jpg"
 				style="width: 90%"
@@ -10,6 +11,7 @@
 		</div>
 		<div class="columnc">
 			<img
+				loading="lazy"
 				alt="esküvői kép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-02.jpg"
 				style="width: 90%"
@@ -17,11 +19,13 @@
 		</div>
 		<div class="columnc">
 			<img
+				loading="lazy"
 				alt="esküvői kép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-03-min.jpg"
 				style="width: 100%"
 			/>
 			<img
+				loading="lazy"
 				alt="esküvői kép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-05.jpg"
 				style="width: 100%"
@@ -29,6 +33,7 @@
 		</div>
 		<div class="columnc">
 			<img
+				loading="lazy"
 				alt="esküvői kép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-04-min.jpg"
 				style="width: 90%"
@@ -37,7 +42,7 @@
 	</div>
 	<div class="contact-section">
 		Szeretnél egy családi fotózást?
-		<a class="button is-rounded contact-btn" href="/contact">Írj üzenetet!</a>
+		<a data-sveltekit-reload class="button is-rounded contact-btn" href="/contact">Írj üzenetet!</a>
 	</div>
 </section>
 
