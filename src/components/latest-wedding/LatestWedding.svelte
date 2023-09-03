@@ -4,9 +4,9 @@
 		<div class="columns">
 			<div class="column">
 				<iframe
-					title="Virág és Norbi esküvői filmje"
+					title="Cinti és Sanyi előzetes rövid esküvői videója"
 					class="video"
-					src="https://www.youtube.com/embed/hP7dpHYA0xM"
+					src="https://www.youtube.com/embed/Li2zyCljKJo"
 					allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 					allowfullscreen
 				/>
