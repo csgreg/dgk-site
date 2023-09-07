@@ -1,3 +1,18 @@
+<script>
+	// @ts-ignore
+	const handleCoverClick = (e, videoId) => {
+		e.target.style.display = 'none';
+		const video = document.querySelector(`#${videoId}`);
+		if (video) {
+			// @ts-ignore
+			let videoSrc = video.src;
+			videoSrc += '?autoplay=1';
+			// @ts-ignore
+			video.src = videoSrc;
+		}
+	};
+</script>
+
 <section class="festival-section">
 	<div class="hero is-medium is-link festival-hero" />
 	<div class="container festival-content">
@@ -17,7 +32,9 @@
 				allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 				allowfullscreen
 				title="Ceglédi Street Food fesztivál"
+				id="video-fest"
 			/>
+			<div class="cover" on:click={(e) => handleCoverClick(e, 'video-fest')} />
 		</div>
 		<a data-sveltekit-reload class="button is-rounded more-movies-btn" href="/movies"
 			>További filmek</a
@@ -38,9 +55,9 @@
 	}
 
 	.festival-title {
-		font-size: 18px;
-		font-weight: 700;
-		margin-bottom: 16px;
+		font-size: 24px;
+		font-weight: 300;
+		margin-bottom: 22px;
 		margin-top: 24px;
 		text-align: center;
 	}
@@ -61,11 +78,27 @@
 	.video-container {
 		width: 600px;
 		max-width: 90%;
+		position: relative;
+		aspect-ratio: 16 / 9;
+		max-width: 100%;
+		height: auto;
+	}
+
+	.cover {
+		position: absolute;
+		top: 0;
+		height: 100%;
+		width: 100%;
+		cursor: pointer;
+		box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/festivelcover.jpg');
+		background-repeat: no-repeat, no-repeat;
+		background-size: cover;
 	}
 
 	.video {
-		aspect-ratio: 16 / 9;
 		width: 100%;
+		height: 100%;
 	}
 
 	.more-movies-btn {

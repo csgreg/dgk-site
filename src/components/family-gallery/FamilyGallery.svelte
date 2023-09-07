@@ -4,8 +4,14 @@
 		<div class="columnc">
 			<img
 				loading="lazy"
-				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-01.jpg"
+				alt="kisfiú mosolyog"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi6.jpeg"
+				style="width: 90%"
+			/>
+			<img
+				loading="lazy"
+				alt="kisfiú mosolyog"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi1.jpg"
 				style="width: 90%"
 			/>
 		</div>
@@ -13,7 +19,13 @@
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-02.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi2.jpg"
+				style="width: 90%"
+			/>
+			<img
+				loading="lazy"
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi8.jpeg"
 				style="width: 90%"
 			/>
 		</div>
@@ -21,13 +33,19 @@
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-03-min.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi3.jpg"
 				style="width: 100%"
 			/>
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-05.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi4.jpg"
+				style="width: 100%"
+			/>
+			<img
+				loading="lazy"
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi7.jpeg"
 				style="width: 100%"
 			/>
 		</div>
@@ -35,7 +53,7 @@
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/family-photo-04-min.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi5.jpg"
 				style="width: 90%"
 			/>
 		</div>
@@ -67,9 +85,9 @@
 
 	.family-gallery-title {
 		margin-top: 16px;
-		margin-bottom: 16px;
-		font-size: 18px;
-		font-weight: 700;
+		font-size: 24px;
+		font-weight: 300;
+		margin-bottom: 22px;
 	}
 	.gallery {
 		text-align: center;

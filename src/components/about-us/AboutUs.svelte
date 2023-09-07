@@ -77,9 +77,9 @@
 
 	.about-us-title {
 		margin-top: 16px;
-		margin-bottom: 16px;
-		font-size: 18px;
-		font-weight: 700;
+		font-size: 24px;
+		font-weight: 300;
+		margin-bottom: 22px;
 	}
 
 	.about-us-text {
