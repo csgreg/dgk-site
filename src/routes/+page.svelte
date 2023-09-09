@@ -6,6 +6,7 @@
 	import ReviewsSection from '../components/reviews-section/ReviewsSection.svelte';
 	import FamilyGallery from '../components/family-gallery/FamilyGallery.svelte';
 	import PetchySection from '../components/petchy-section/PetchySection.svelte';
+	import { onMount } from 'svelte';
 </script>
 
 <svelte:head>
@@ -22,11 +23,6 @@
 	/>
 	<meta property="og:url" content="https://www.photographydgk.hu/" />
 	<meta name="robots" content="index, follow" />
-	<script
-		src="https://static.elfsight.com/platform/platform.js"
-		data-use-service-core
-		defer
-	></script>
 </svelte:head>
 
 <section class="hero is-medium main-hero">
@@ -38,7 +34,15 @@
 <LatestWedding />
 <FamilyGallery />
 <AboutUs />
-<div class="elfsight-app-70870fab-47fc-44d2-86ce-c114220715cd" />
+<iframe
+	src="https://embedsocial.com/api/pro_hashtag/f8dd70623f9be5fd5541ab18b68af8c2bdd8a61c"
+	width="100%"
+	height="600px"
+	frameborder="0"
+	marginheight="0"
+	marginwidth="0"
+	style="margin-bottom: 12px;"
+/>
 <FestivalSection />
 <ReviewsSection />
 <PetchySection />
@@ -90,9 +94,5 @@
 		flex-direction: column;
 		align-items: center;
 		justify-content: center;
-	}
-
-	.elfsight-app-70870fab-47fc-44d2-86ce-c114220715cd a {
-		display: none;
 	}
 </style>
