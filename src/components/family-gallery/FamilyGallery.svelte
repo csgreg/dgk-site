@@ -25,7 +25,7 @@
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi8.jpeg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi9.jpg"
 				style="width: 90%"
 			/>
 		</div>
@@ -54,6 +54,12 @@
 				loading="lazy"
 				alt="esküvői kép"
 				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi5.jpg"
+				style="width: 90%"
+			/>
+			<img
+				loading="lazy"
+				alt="esküvői kép"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi8.jpeg"
 				style="width: 90%"
 			/>
 		</div>

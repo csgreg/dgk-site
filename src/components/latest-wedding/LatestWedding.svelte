@@ -9,6 +9,7 @@
 			videoSrc += '&autoplay=1';
 			// @ts-ignore
 			video.src = videoSrc;
+			video.click();
 		}
 	};
 </script>
@@ -47,7 +48,6 @@
 		<a data-sveltekit-reload class="button is-rounded more-movie-btn" href="/movies"
 			>Nézd meg a többi filmünket is!</a
 		>
-		<hr class="divider" />
 	</div>
 </section>
 
@@ -72,7 +72,7 @@
 	}
 
 	.cover2 {
-		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/agiandattila.jpg');
+		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/agiandattila.jpeg');
 		background-repeat: no-repeat, no-repeat;
 		background-size: cover;
 	}

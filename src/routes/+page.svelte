@@ -22,6 +22,11 @@
 	/>
 	<meta property="og:url" content="https://www.photographydgk.hu/" />
 	<meta name="robots" content="index, follow" />
+	<script
+		src="https://static.elfsight.com/platform/platform.js"
+		data-use-service-core
+		defer
+	></script>
 </svelte:head>
 
 <section class="hero is-medium main-hero">
@@ -31,9 +36,10 @@
 	</div>
 </section>
 <LatestWedding />
-<AboutUs />
-<FestivalSection />
 <FamilyGallery />
+<AboutUs />
+<div class="elfsight-app-70870fab-47fc-44d2-86ce-c114220715cd" />
+<FestivalSection />
 <ReviewsSection />
 <PetchySection />
 <Footer />
