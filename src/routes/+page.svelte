@@ -91,4 +91,8 @@
 		align-items: center;
 		justify-content: center;
 	}
+
+	.elfsight-app-70870fab-47fc-44d2-86ce-c114220715cd a {
+		display: none;
+	}
 </style>
