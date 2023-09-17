@@ -34,9 +34,9 @@
 			<div class="column">
 				<div class="video-with-cover">
 					<iframe
-						title="Ági és Attila esküvői videója"
+						title="Eszter és Tibi esküvői előzetes filmje"
 						class="video"
-						src="https://www.youtube.com/embed/gzHG49Zg62k?modestbranding=1"
+						src="https://www.youtube.com/embed/0D6wnrg_AG0?modestbranding=1"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 						allowfullscreen
 						id="video-home-2"
@@ -72,7 +72,7 @@
 	}
 
 	.cover2 {
-		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/agiandattila.jpeg');
+		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/eszterandtibi.jpeg');
 		background-repeat: no-repeat, no-repeat;
 		background-size: cover;
 	}
