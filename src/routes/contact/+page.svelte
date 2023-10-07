@@ -57,7 +57,7 @@
 			<input name="name" class="input is-normal inp" type="text" placeholder="Név" />
 			<input type="hidden" name="_captcha" value="false" />
 			<input type="hidden" name="_subject" value="New email from website!" />
-			<input type="hidden" name="_next" value="https://photographydgk.com/email-success" />
+			<input type="hidden" name="_next" value="https://photographydgk.hu/email-success" />
 			<input name="phone" class="input is-normal inp" type="text" placeholder="Telefonszám" />
 			<input name="email" class="input is-normal inp" type="text" placeholder="Email" />
 			<input name="date" class="input is-normal inp" type="text" placeholder="Dátum és helyszín" />
