@@ -44,7 +44,7 @@
 
 <style>
 	.festival-hero {
-		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/fest_thumb.JPG');
+		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/festival_thumbnail.webp');
 		background-size: cover;
 		background-position: 50% 70%;
 		background-repeat: no-repeat;
