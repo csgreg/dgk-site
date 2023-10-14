@@ -10,7 +10,6 @@
 				<ImageWCover
 					title="Cinti és Sanyi előzetes rövid esküvői videója"
 					videoSrc="https://www.youtube.com/embed/Li2zyCljKJo?modestbranding=1"
-					videoCoverSrc="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/cintiandsanyi.jpeg"
 				/>
 			</div>
 			<div class="column">
@@ -18,7 +17,6 @@
 					<ImageWCover
 						title="Eszter és Tibi esküvői előzetes filmje"
 						videoSrc="https://www.youtube.com/embed/0D6wnrg_AG0?modestbranding=1"
-						videoCoverSrc="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/eszterandtibi.jpeg"
 					/>
 				</div>
 			</div>
@@ -32,7 +30,6 @@
 					<ImageWCover
 						title="Cinti és Sanyi esküvői filmje"
 						videoSrc="https://www.youtube.com/embed/vxoW6__K8iQ?modestbranding=1"
-						videoCoverSrc="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/cintiandsanyi2.jpeg"
 					/>
 				</div>
 			</div>
@@ -41,7 +38,6 @@
 					<ImageWCover
 						title="Eszter és Tibi esküvői filmje"
 						videoSrc="https://www.youtube.com/embed/hO8MVtNaIik?modestbranding=1"
-						videoCoverSrc="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/eszterandtibi2.jpeg"
 					/>
 				</div>
 			</div>

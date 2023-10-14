@@ -50,7 +50,7 @@
 
 <style>
 	.main-hero {
-		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/thumb.jpeg');
+		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/desktop-thumbnail.webp');
 		background-size: cover;
 		background-position: 10% 45%;
 		background-repeat: no-repeat;
@@ -73,7 +73,7 @@
 
 	@media screen and (max-width: 800px) {
 		.main-hero {
-			background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/thumbnail.JPG');
+			background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/mobile-thumbnail.webp');
 			background-position: 0 70%;
 		}
 

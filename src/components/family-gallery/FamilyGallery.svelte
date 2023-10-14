@@ -1,5 +1,5 @@
 <section class="gallery">
-	<h1 class="family-gallery-title">Családi képek</h1>
+	<h3 class="family-gallery-title">Családi képek</h3>
 	<div class="rowc">
 		<div class="columnc">
 			<img

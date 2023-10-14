@@ -34,7 +34,6 @@
 				title="Ceglédi Street Food fesztivál"
 				id="video-fest"
 			/>
-			<div class="cover" on:click={(e) => handleCoverClick(e, 'video-fest')} />
 		</div>
 		<a data-sveltekit-reload class="button is-rounded more-movies-btn" href="/movies"
 			>További filmek</a
@@ -82,18 +81,6 @@
 		aspect-ratio: 16 / 9;
 		max-width: 100%;
 		height: auto;
-	}
-
-	.cover {
-		position: absolute;
-		top: 0;
-		height: 100%;
-		width: 100%;
-		cursor: pointer;
-		box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-		background-image: url('https://dgk-site-storage.s3.eu-central-1.amazonaws.com/video_covers/festivelcover.jpg');
-		background-repeat: no-repeat, no-repeat;
-		background-size: cover;
 	}
 
 	.video {
