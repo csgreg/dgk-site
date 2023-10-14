@@ -12,7 +12,7 @@
 						<img
 							loading="lazy"
 							class="card-image"
-							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-lilian-new.jpeg"
+							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-lilian.webp"
 							alt="Fénykép Liliről a színpad mellett"
 						/>
 					</figure>
@@ -32,7 +32,7 @@
 						<img
 							loading="lazy"
 							class="card-image"
-							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-gergo-new.jpeg"
+							src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/about-gergo.webp"
 							alt="Fénykép Gergőről a színpadon"
 						/>
 					</figure>

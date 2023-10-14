@@ -10,7 +10,7 @@
 			<img
 				loading="lazy"
 				alt="kutyaruha reklám termék fénykép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-01.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-01.webp"
 				style="width: 90%"
 			/>
 		</div>
@@ -18,7 +18,7 @@
 			<img
 				loading="lazy"
 				alt="kutyaruha reklám termék fénykép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-05.JPG"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-05.webp"
 				style="width: 90%"
 			/>
 		</div>
@@ -26,13 +26,13 @@
 			<img
 				loading="lazy"
 				alt="kutyaruha reklám termék fénykép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-02.jpeg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-02.webp"
 				style="width: 100%"
 			/>
 			<img
 				loading="lazy"
 				alt="kutyaruha reklám termék fénykép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-03.JPG"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-03.webp"
 				style="width: 100%"
 			/>
 		</div>
@@ -40,7 +40,7 @@
 			<img
 				loading="lazy"
 				alt="kutyaruha reklám fénykép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-04.JPG"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/petchy-photo-04.webp"
 				style="width: 90%"
 			/>
 		</div>

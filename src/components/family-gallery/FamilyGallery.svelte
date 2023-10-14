@@ -5,13 +5,13 @@
 			<img
 				loading="lazy"
 				alt="kisfiú mosolyog"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi6.jpeg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi6.webp"
 				style="width: 90%"
 			/>
 			<img
 				loading="lazy"
 				alt="kisfiú mosolyog"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi1.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi1.webp"
 				style="width: 90%"
 			/>
 		</div>
@@ -19,13 +19,13 @@
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi2.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi2.webp"
 				style="width: 90%"
 			/>
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi9.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi9.webp"
 				style="width: 90%"
 			/>
 		</div>
@@ -33,19 +33,19 @@
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi3.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi3.webp"
 				style="width: 100%"
 			/>
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi4.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi4.webp"
 				style="width: 100%"
 			/>
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi7.jpeg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi7.webp"
 				style="width: 100%"
 			/>
 		</div>
@@ -53,13 +53,13 @@
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi5.jpg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi5.webp"
 				style="width: 90%"
 			/>
 			<img
 				loading="lazy"
 				alt="esküvői kép"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi8.jpeg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/gallery/csaladi8.webp"
 				style="width: 90%"
 			/>
 		</div>

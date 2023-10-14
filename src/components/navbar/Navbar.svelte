@@ -10,7 +10,7 @@
 		<a data-sveltekit-reload class="navbar-item" href="/">
 			<img
 				loading="lazy"
-				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/logo-new.jpeg"
+				src="https://dgk-site-storage.s3.eu-central-1.amazonaws.com/logo.webp"
 				alt="dgk photography logó"
 				class="brand-logo"
 			/>
